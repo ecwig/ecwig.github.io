@@ -1,0 +1,139 @@
+{
+  "basics": {
+    "name": "Ethan C Wiggins",
+    "label": "Full Stack Developer",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAANkAAAAJDI0NGNiZWI5LWVmMTItNGYxMi1iYTNmLTkyZjAwZGVkZGMyZg.jpg",
+    "email": "ethanwiggins@gmail.com",
+    "phone": "(318) 963-0051",
+    "website": "https://ecwig.github.io",
+    "summary": "I'm from North Louisiana. I graduated from the University of Louisiana at Monroe with a BS degree in Computer Science in 2013. In 2012, I took an internship at the Centurylink Headquarters in Monroe, LA focusing on Java API and Web Service developement. In 2014, I got the oppurtunity to move to Shreveport,LA working as a full stack .NET developer for Praeses, LLC. My work mainly consists of C# MVC development, the Knockout library, Web API 2.0, and SQL Server development.",
+    "location": {
+      "city": "Shreveport",
+      "countryCode": "US",
+      "region": "Louisiana"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "ecwig",
+        "url": "https://twitter.com/Ecwig"
+      },
+      {
+        "network": "Github",
+        "username": "ecwig",
+        "url": "https://github.com/ecwig"
+      },
+
+      {
+        "network": "Linkedin",
+        "username": "ecwig",
+        "url": "https://www.linkedin.com/in/ecwig"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Praeses, LLC",
+      "position": "Software Developer II",
+      "website": "https://praeses.com",
+      "startDate": "2014-08",
+      "endDate": "Present",
+      "summary": "Praeses is a leader in software development and services, offering proven and consistent business solutions to customers in both the public and private sectors. With over two decades of IT experience, Praeses serves as an independent, trusted advisor helping clients re-engineer processes and leverage emerging technologies to optimize operations.",
+      "highlights": [
+        "Migrate legacy code for the company, from VB6 and classic ASP to C# MVC",
+        "API development using Web API 2.0",
+        "Knockout development utilizing the MVVM pattern",
+        "SQL development leveraging SQL Server 2008 and later"
+      ]
+    },
+    {
+      "company": "Centurylink",
+      "position": "Software Developer II",
+      "website": "https://centurylink.com",
+      "startDate": "2012-06",
+      "endDate": "2014-08",
+      "summary": "Centurylink is a leading provider of Internet, TV, and Voice services. Centurylink is a S&P 500 Company and is include on the Fortune 500 list of America's largest corporations.",
+      "highlights": [
+        "Maintain and add new functionality leveraging the Java Spring MVC framework",
+        "Java RESTful Web Services leveraging the Java EE 6 API",
+        "Javascript and jQuery front end development",
+        "SQL development using PL/SQL for Oracle databases"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Louisiana at Monroe",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2008-08",
+      "endDate": "2013-05",
+      "gpa": "3.279"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Proficient",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "Javascript",
+        "Knockout",
+        "JSP",
+        "CSHTML with Razor",
+        "ASP.NET",
+        ".NET MVC 5"
+      ]
+    },
+    {
+      "name": "API Development",
+      "level": "Proficient",
+      "keywords": [
+        "Java",
+        "C#",
+        "Web API 2.0"
+      ]
+    },
+    {
+      "name": "Tools Used",
+      "keywords": [
+        "Apache Maven",
+        "Apache Tomcat",
+        "ServiceMix",
+        "Red Hat JBoss",
+        "Red Hat JBoss Fuse",
+        "IIS",
+        "Teamcity",
+        "Octopus Deploy",
+        "Subversion",
+        "Git",
+        "TFS"
+      ]
+    },
+    {
+      "name": "Database Development",
+      "keywords": [
+        "SQL",
+        "Oracle",
+        "SQL Server"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "Professional Associations and Activities": [
+    {
+      "name": "Member",
+      "keywords": [
+        "Louisiana Delta Chapter of Kappa Mu Epsilon at ULM, Monroe, LA",
+        "Louisiana Chapter of Upsilon Pi Epsilon at ULM, Monroe, LA",
+        "Mackey Lodge #122 F&AM Masonic Lodge, Ringgold LA"
+      ]
+    }
+  ]
+}
